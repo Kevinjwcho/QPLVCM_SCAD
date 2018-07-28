@@ -1,4 +1,4 @@
-# QPLVCM_SCAD
+# QPLVCM_SCAD_simulation0
 
 This code for my graduate paper, "Penalized Local Linear Quantile Regression for Varying Coefficient Models.' 
 If you have interests in partially linear varying coefficient models (PLVCM), please see my code.
