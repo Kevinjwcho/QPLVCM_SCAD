@@ -1,5 +1,4 @@
-# QPLVCM_SCAD_simulation0
+# Penalized kernel quantile regression for varying coefficient models
 
-This code for my graduate paper, "Penalized Local Linear Quantile Regression for Varying Coefficient Models.' 
-If you have interests in partially linear varying coefficient models (PLVCM), please see my code.
-Or if you have any helps to enhance my work, please be comment.
+* This code for my graduate paper, "Penalized Local Linear Quantile Regression for Varying Coefficient Models.'
+* From this study, Prof. Eun Ryung Lee has enhanced it, and published by *Lee, Eun Ryung, Jinwoo Cho, and Seyoung Park. "Penalized kernel quantile regression for varying coefficient models." Journal of Statistical Planning and Inference 217 (2022): 8-23.*
